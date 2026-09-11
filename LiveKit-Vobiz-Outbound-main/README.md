@@ -82,12 +82,3 @@ Go to **[http://localhost:3000](http://localhost:3000)** in your browser. You wi
 5.  Click **"Initiate Call"**.
 6.  The Agent will wake up, dial the number via Vobiz, and start talking!
 
----
-
-## 🤝 Need Custom AI Solutions?
-**Book a call with the Rapid X AI Team.** We build enterprise-grade voice agents for sales, support, and operations.
-
-👉 **[rapidxai.com](https://rapidxai.com)**
-
----
-*Built with ❤️ by Shreyas Raj.*
