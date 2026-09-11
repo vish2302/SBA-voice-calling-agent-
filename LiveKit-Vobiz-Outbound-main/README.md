@@ -1,17 +1,5 @@
-# 🚀 Rapid X AI Voice Agent (Vobiz Edition)
 
-**Powered by [Rapid X AI](https://rapidxai.com)**  
-*Next-Gen Conversational AI Orchestration*
-
-[![Instagram](https://img.shields.io/badge/Instagram-@ai.w.raj-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ai.w.raj)
-[![X](https://img.shields.io/badge/X-@topR9595-000000?style=for-the-badge&logo=x)](https://x.com/topR9595)
-[![YouTube](https://img.shields.io/badge/YouTube-Shreyas_Raj-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@AiwithShreyasRaj)
-
----
-
-## 🌟 Introduction
-
-Welcome to the **Rapid X AI Voice Agent** codebase. This project allows you to spawn intelligent, human-like voice assistants that can call phone numbers, handle real-time conversations, and trigger actions.
+Welcome to the  **AI Voice Agent** codebase. This project allows you to spawn intelligent, human-like voice assistants that can call phone numbers, handle real-time conversations, and trigger actions.
 
 It is built on a "Modern AI Stack" for ultra-low latency:
 *   **[LiveKit](https://livekit.io)**: For real-time audio streaming infrastructure.
